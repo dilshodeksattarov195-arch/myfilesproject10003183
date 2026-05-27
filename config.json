@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsecrypt",
+        "uuid": 15119250,
+        "checksum": "or5jiq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
